@@ -73,7 +73,7 @@ topology:
 ```
 
 #### 2. Разворачиваем контейнер: 
-![image]([introduction lab2/container.png](https://github.com/16Angeles/2023-2024-introduction_in_routing-k33202-islamov_s_s/blob/8323823da16de9ebc49063ab48b9acbed0b86e11/introduction%20lab2/container.png))
+![image](https://github.com/16Angeles/2023-2024-introduction_in_routing-k33202-islamov_s_s/blob/8323823da16de9ebc49063ab48b9acbed0b86e11/introduction%20lab2/container.png)
 
 #### 3. Прописываем параметры каждому устройству
 Текст конфигураций сетевых устройств: 
