@@ -27,7 +27,7 @@ Date of finished: 10.12.2023
 name: lab2
 
 mgmt:
-  network: LeraNet
+  network: SerejjaNet
   ipv4_subnet: 192.10.10.0/24
 
 topology:
@@ -73,7 +73,7 @@ topology:
 ```
 
 #### 2. Разворачиваем контейнер: 
-![image](https://user-images.githubusercontent.com/64967406/207663055-5ca41518-f135-47f5-b83e-dd6c8bb1a8df.png)
+![image](introduction lab2/container.png)
 
 #### 3. Прописываем параметры каждому устройству
 Текст конфигураций сетевых устройств: 
