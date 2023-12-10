@@ -27,7 +27,7 @@ Date of finished: 10.12.2023
 name: lab2
 
 mgmt:
-  network: LeraNet
+  network: SerejjaNet
   ipv4_subnet: 192.10.10.0/24
 
 topology:
