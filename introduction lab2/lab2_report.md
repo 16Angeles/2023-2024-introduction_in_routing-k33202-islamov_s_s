@@ -73,7 +73,7 @@ topology:
 ```
 
 #### 2. Разворачиваем контейнер: 
-![image](https://github.com/16Angeles/2023-2024-introduction_in_routing-k33202-islamov_s_s/blob/8323823da16de9ebc49063ab48b9acbed0b86e11/introduction%20lab2/container.png)
+![image](./container.png)
 
 #### 3. Прописываем параметры каждому устройству
 Текст конфигураций сетевых устройств: 
@@ -92,7 +92,7 @@ topology:
 
 #### 4. Схема сети
 
-![image](./lab2-scheme.jpg)
+![image](./lab2_drawio.png)
 
 #### 5. Проврека локальной связанности
 ![image](https://user-images.githubusercontent.com/64967406/207947202-ce4c4a9e-5253-4286-8755-c36d13c3f43c.png)
