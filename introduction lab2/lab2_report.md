@@ -78,27 +78,26 @@ topology:
 #### 3. Прописываем параметры каждому устройству
 Текст конфигураций сетевых устройств: 
 - Роутер R01.MSK: \
-![image](https://user-images.githubusercontent.com/64967406/207665333-30d27e36-522a-4606-ba1c-d3b3596f45c4.png)
+![image](./router1.png)
 - Роутер R01.FRT: \
-![image](https://user-images.githubusercontent.com/64967406/207665369-f2a3ef74-6ee2-4631-a8cf-025d23360b46.png)
+![image](router2.png)
 - Роутер R01.BRL: \
-![image](https://user-images.githubusercontent.com/64967406/207665405-e595505b-9c3a-4d94-a1cf-a2645c879738.png)
+![image](router3.png)
 - PC1: \
-![image](https://user-images.githubusercontent.com/64967406/207665497-f6463b64-4f82-4f5a-beeb-400bfe3965d6.png)
+![image](pc1.png)
 - PC2: \
-![image](https://user-images.githubusercontent.com/64967406/207665586-9a891050-711b-4035-9b7a-a432e8e350c1.png)
+![image](pc2.png)
 - PC3: \
-![image](https://user-images.githubusercontent.com/64967406/207665682-d1bbf98b-609d-4112-97da-3989ea87c45c.png)
+![image](pc3.png)
 
 #### 4. Схема сети
 
 ![image](./lab2_drawio.png)
 
 #### 5. Проврека локальной связанности
-![image](https://user-images.githubusercontent.com/64967406/207947202-ce4c4a9e-5253-4286-8755-c36d13c3f43c.png)
-![image](https://user-images.githubusercontent.com/64967406/207947847-76792b1b-c401-4037-848f-af9987b28544.png)
-
-![image](https://user-images.githubusercontent.com/64967406/207949208-1fdd6a08-c305-497d-8763-cdd5887d7651.png)
+![image](Ping1.png)
+![image](ping2.png)
+![image](ping3.png)
 
 #### 6. Вывод
 
