@@ -6,7 +6,7 @@ Faculty: [FICT](https://fict.itmo.ru)
 
 Course: [Introduction in routing](https://github.com/itmo-ict-faculty/introduction-in-routing)
 
-Year: 2022/2023
+Year: 2023/2024
 
 Group: K33202
 
