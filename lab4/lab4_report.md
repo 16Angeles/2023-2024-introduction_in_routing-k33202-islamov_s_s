@@ -14,9 +14,9 @@ Author: Islamov Sergey Sergeevich
 
 Lab: Lab4
 
-Date of create: 16.12.2022
+Date of create: 16.12.2023
 
-Date of finished: 17.01.2023
+Date of finished: 17.12.2023
 
 ### Цель работы
 Изучить протоколы BGP, MPLS и правила организации L3VPN и VPLS.
@@ -89,7 +89,7 @@ topology:
     - endpoints: ["R01.SVL:eth2","PC3:eth1"]
 ```
 #### 2. Разворачиваем контейнер 
-![image](https://user-images.githubusercontent.com/64967406/211038808-661d53c3-11d0-49b1-b46b-2820da270568.png)
+![image](./container.png)
 
 ## Первая часть:
 
@@ -101,7 +101,7 @@ topology:
 Настраимаем имена устройств, сменить логины и пароли.
 
 #### 1. Схема сети первой части
-![image](./scheme1.jpg)
+![image](./schema1.png)
 
 #### 2. Прописываем параметры каждому устройству
 Текст конфигураций сетевых устройств:
@@ -359,16 +359,16 @@ add disabled=no interface=ether1
 set name=PC3
 ```
 #### 3. Проверка связности VRF
-![image]()
-![image]()
-![image]()
+![image](./vrf1.png)
+![image](./vrf2.png)
+![image](./vrf3.png)
 Состояние Established
 
 #### 4. Проверка пингов VRF_DEVOPS
 SPB \
-![image]() \
+![image](./spb.png) \
 NY \
-![image]()
+![image](./ny.png)
 
 ## Вторая часть:
 
@@ -379,7 +379,7 @@ NY \
 
 
 #### 1. Схема сети второй части
-![image]()
+![image](./schema2.png)
 
 #### 2. Измененные кнфигурации сетевых устройств R01.SPB R01.NY R01.SVL PC1 PC2 PC3
 - Роутер R01.SPB
@@ -446,11 +446,11 @@ add address=192.168.0.3/24 interface=ether2 network=192.168.0.0
 ```
 #### 3. Проверка связности VPLS
 PC1\
-![image]() \
+![image](./pc1.png) \
 PC2\
-![image]() \
+![image](./pc2.png) \
 PC3\
-![image]()
+![image](./pc3.png)
 
 #### 4. Вывод
 В ходе выплнения данной лабораторной рабты были изучены протоколы BGP, MPLS и правила организации L3VPN и VPLS.
