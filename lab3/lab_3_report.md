@@ -78,49 +78,49 @@ topology:
 ```
 
 #### 2. Разворачиваем контейнер 
-![image]()
+![image](https://github.com/16Angeles/2023-2024-introduction_in_routing-k33202-islamov_s_s/blob/ccb1ff0b3e115faac91c87b6c2a2383700e0536a/lab3/Container.png)
 
 #### 3. Прописываем параметры каждому устройству
 Текст конфигураций сетевых устройств:
 - Роутер R01.NY
 
-![image](https://github.com/16Angeles/2023-2024-introduction_in_routing-k33202-islamov_s_s/blob/ccb1ff0b3e115faac91c87b6c2a2383700e0536a/lab3/Container.png)
+![image](./R01.NY.png)
 
 - Роутер R01.LND
 
-![image]()
+![image](./R01.LND.png)
 
 - Роутер R01.LBN
 
-![image]()
+![image](./R01.LBN.png)
 
 - Роутер R01.HKI
 
-![image]()
+![image](./R01.HKI.png)
 
 - Роутер R01.MSK
 
-![image]()
+![image](./R01.MSK.png)
 
 - Роутер R01.SPB
 
-![image]()
+![image](./R01.SPB.png)
 
 - SGI-Prism
 
-![image]()
+![image](https://github.com/16Angeles/2023-2024-introduction_in_routing-k33202-islamov_s_s/blob/29e2d6fbc94ccac8c8cfdd6ce85e0b0495fa5a01/lab3/SGI%20PRISM.png)
 
 - PC1
 
-![image]()
+![image](./PC1.png)
 
 #### 4. Таблицы маршрутизации для каждого роутера:
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+![image](./r1.png)
+![image](./r2.png)
+![image](./r3.png)
+![image](./r4.png)
+![image](./r5.png)
+![image](./r6.png)
 
 #### 5. Информация об MPLS метках:
 ![image](./mpls.png)
