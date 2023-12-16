@@ -84,7 +84,7 @@ topology:
 Текст конфигураций сетевых устройств:
 - Роутер R01.NY
 
-![image]()
+![image](https://github.com/16Angeles/2023-2024-introduction_in_routing-k33202-islamov_s_s/blob/ccb1ff0b3e115faac91c87b6c2a2383700e0536a/lab3/Container.png)
 
 - Роутер R01.LND
 
