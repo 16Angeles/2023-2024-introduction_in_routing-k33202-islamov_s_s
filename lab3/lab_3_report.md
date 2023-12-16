@@ -123,13 +123,13 @@ topology:
 ![image]()
 
 #### 5. Информация об MPLS метках:
-![image]()
+![image](./mpls.png)
 
 #### 6. Схема сети
-![image](./lab3-scheme.jpg)
+![image](./lab3-scheme.png)
 #### 7. Проверка пинга ПК и сервера
-![image]()
-![image]()
+![image](./ping1.png)
+![image](./ping2.png)
 
 #### 8. Вывод
 В результате выполения данной лабораторной работы были изучены протоколы OSPF и MPLS, а также механизмы организации EoMPLS.
