@@ -88,7 +88,7 @@ topology:
 
 - Роутер R01.LND
 
-![image](./R01.LND.png)
+![image](./R01.LONDON.png)
 
 - Роутер R01.LBN
 
